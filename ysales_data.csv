@@ -1,0 +1,169 @@
+Brand,Model,Region,Customer_Type,Month,Units_Sold,Price,Revenue
+Samsung,Galaxy S24,North,Retail,Jan,45,85000,3825000
+Apple,iPhone 15 Pro,South,Online,Feb,38,120000,4560000
+Xiaomi,Xiaomi 14,East,Corporate,Mar,52,65000,3380000
+OnePlus,OnePlus 12,West,Individual,Apr,29,70000,2030000
+Vivo,Vivo X100,Central,Retail,May,41,50000,2050000
+Oppo,Oppo Find X7,North,Online,Jun,33,75000,2475000
+Realme,Realme GT 5,South,Corporate,Jul,56,30000,1680000
+Google,Pixel 8 Pro,East,Individual,Aug,22,95000,2090000
+Samsung,Galaxy S23,West,Retail,Sep,47,70000,3290000
+Apple,iPhone 15,Central,Online,Oct,39,100000,3900000
+Xiaomi,Redmi Note 13,North,Corporate,Nov,68,25000,1700000
+OnePlus,OnePlus 11,South,Individual,Dec,31,55000,1705000
+Vivo,Vivo V30,East,Retail,Jan,44,40000,1760000
+Oppo,Oppo Reno 11,West,Online,Feb,27,60000,1620000
+Realme,Realme 12 Pro,Central,Corporate,Mar,62,22000,1364000
+Google,Pixel 8,North,Individual,Apr,19,80000,1520000
+Samsung,Galaxy A54,South,Retail,May,73,35000,2555000
+Apple,iPhone 14,East,Online,Jun,34,90000,3060000
+Xiaomi,Redmi Note 12,West,Corporate,Jul,58,20000,1160000
+OnePlus,OnePlus Nord 3,Central,Individual,Aug,25,45000,1125000
+Vivo,Vivo Y100,North,Retail,Sep,49,28000,1372000
+Oppo,Oppo A78,South,Online,Oct,36,25000,900000
+Realme,Realme C67,East,Corporate,Nov,67,15000,1005000
+Google,Pixel 7a,West,Individual,Dec,20,60000,1200000
+Samsung,Galaxy Z Flip 5,Central,Retail,Jan,15,110000,1650000
+Apple,iPhone 13,North,Online,Feb,42,80000,3360000
+Xiaomi,Poco X6,South,Corporate,Mar,55,28000,1540000
+OnePlus,OnePlus Open,East,Individual,Apr,12,130000,1560000
+Vivo,Vivo T3,West,Retail,May,39,32000,1248000
+Oppo,Oppo F25,Central,Online,Jun,28,27000,756000
+Realme,Realme Narzo 70,North,Corporate,Jul,61,18000,1098000
+Google,Pixel Fold,South,Individual,Aug,8,160000,1280000
+Samsung,Galaxy Z Fold 5,East,Retail,Sep,10,150000,1500000
+Apple,iPhone SE,West,Online,Oct,30,50000,1500000
+Xiaomi,Xiaomi 13,Central,Corporate,Nov,48,55000,2640000
+OnePlus,OnePlus 12,North,Individual,Dec,33,70000,2310000
+Vivo,Vivo X100,South,Retail,Jan,45,50000,2250000
+Oppo,Oppo Find X7,East,Online,Feb,29,75000,2175000
+Realme,Realme GT 5,West,Corporate,Mar,52,30000,1560000
+Google,Pixel 8 Pro,Central,Individual,Apr,18,95000,1710000
+Samsung,Galaxy S24,North,Retail,May,50,85000,4250000
+Apple,iPhone 15 Pro,South,Online,Jun,35,120000,4200000
+Xiaomi,Xiaomi 14,East,Corporate,Jul,60,65000,3900000
+OnePlus,OnePlus 12,West,Individual,Aug,27,70000,1890000
+Vivo,Vivo X100,Central,Retail,Sep,44,50000,2200000
+Oppo,Oppo Find X7,North,Online,Oct,31,75000,2325000
+Realme,Realme GT 5,South,Corporate,Nov,58,30000,1740000
+Google,Pixel 8 Pro,East,Individual,Dec,20,95000,1900000
+Samsung,Galaxy S23,West,Retail,Jan,48,70000,3360000
+Apple,iPhone 15,Central,Online,Feb,37,100000,3700000
+Xiaomi,Redmi Note 13,North,Corporate,Mar,70,25000,1750000
+OnePlus,OnePlus 11,South,Individual,Apr,32,55000,1760000
+Vivo,Vivo V30,East,Retail,May,42,40000,1680000
+Oppo,Oppo Reno 11,West,Online,Jun,26,60000,1560000
+Realme,Realme 12 Pro,Central,Corporate,Jul,65,22000,1430000
+Google,Pixel 8,North,Individual,Aug,17,80000,1360000
+Samsung,Galaxy A54,South,Retail,Sep,76,35000,2660000
+Apple,iPhone 14,East,Online,Oct,33,90000,2970000
+Xiaomi,Redmi Note 12,West,Corporate,Nov,60,20000,1200000
+OnePlus,OnePlus Nord 3,Central,Individual,Dec,23,45000,1035000
+Vivo,Vivo Y100,North,Retail,Jan,50,28000,1400000
+Oppo,Oppo A78,South,Online,Feb,38,25000,950000
+Realme,Realme C67,East,Corporate,Mar,69,15000,1035000
+Google,Pixel 7a,West,Individual,Apr,21,60000,1260000
+Samsung,Galaxy Z Flip 5,Central,Retail,May,14,110000,1540000
+Apple,iPhone 13,North,Online,Jun,44,80000,3520000
+Xiaomi,Poco X6,South,Corporate,Jul,57,28000,1596000
+OnePlus,OnePlus Open,East,Individual,Aug,11,130000,1430000
+Vivo,Vivo T3,West,Retail,Sep,37,32000,1184000
+Oppo,Oppo F25,Central,Online,Oct,30,27000,810000
+Realme,Realme Narzo 70,North,Corporate,Nov,63,18000,1134000
+Google,Pixel Fold,South,Individual,Dec,9,160000,1440000
+Samsung,Galaxy Z Fold 5,East,Retail,Jan,12,150000,1800000
+Apple,iPhone SE,West,Online,Feb,32,50000,1600000
+Xiaomi,Xiaomi 13,Central,Corporate,Mar,46,55000,2530000
+OnePlus,OnePlus 12,North,Individual,Apr,36,70000,2520000
+Vivo,Vivo X100,South,Retail,May,47,50000,2350000
+Oppo,Oppo Find X7,East,Online,Jun,28,75000,2100000
+Realme,Realme GT 5,West,Corporate,Jul,54,30000,1620000
+Google,Pixel 8 Pro,Central,Individual,Aug,16,95000,1520000
+Samsung,Galaxy S24,North,Retail,Sep,52,85000,4420000
+Apple,iPhone 15 Pro,South,Online,Oct,40,120000,4800000
+Xiaomi,Xiaomi 14,East,Corporate,Nov,55,65000,3575000
+OnePlus,OnePlus 12,West,Individual,Dec,29,70000,2030000
+Vivo,Vivo X100,Central,Retail,Jan,43,50000,2150000
+Oppo,Oppo Find X7,North,Online,Feb,34,75000,2550000
+Realme,Realme GT 5,South,Corporate,Mar,60,30000,1800000
+Google,Pixel 8 Pro,East,Individual,Apr,19,95000,1805000
+Samsung,Galaxy S23,West,Retail,May,46,70000,3220000
+Apple,iPhone 15,Central,Online,Jun,38,100000,3800000
+Xiaomi,Redmi Note 13,North,Corporate,Jul,72,25000,1800000
+OnePlus,OnePlus 11,South,Individual,Aug,30,55000,1650000
+Vivo,Vivo V30,East,Retail,Sep,45,40000,1800000
+Oppo,Oppo Reno 11,West,Online,Oct,25,60000,1500000
+Realme,Realme 12 Pro,Central,Corporate,Nov,67,22000,1474000
+Google,Pixel 8,North,Individual,Dec,18,80000,1440000
+Samsung,Galaxy A54,South,Retail,Jan,78,35000,2730000
+Apple,iPhone 14,East,Online,Feb,35,90000,3150000
+Xiaomi,Redmi Note 12,West,Corporate,Mar,62,20000,1240000
+OnePlus,OnePlus Nord 3,Central,Individual,Apr,24,45000,1080000
+Vivo,Vivo Y100,North,Retail,May,52,28000,1456000
+Oppo,Oppo A78,South,Online,Jun,40,25000,1000000
+Realme,Realme C67,East,Corporate,Jul,71,15000,1065000
+Google,Pixel 7a,West,Individual,Aug,22,60000,1320000
+Samsung,Galaxy Z Flip 5,Central,Retail,Sep,13,110000,1430000
+Apple,iPhone 13,North,Online,Oct,46,80000,3680000
+Xiaomi,Poco X6,South,Corporate,Nov,59,28000,1652000
+OnePlus,OnePlus Open,East,Individual,Dec,10,130000,1300000
+Vivo,Vivo T3,West,Retail,Jan,36,32000,1152000
+Oppo,Oppo F25,Central,Online,Feb,32,27000,864000
+Realme,Realme Narzo 70,North,Corporate,Mar,65,18000,1170000
+Google,Pixel Fold,South,Individual,Apr,7,160000,1120000
+Samsung,Galaxy Z Fold 5,East,Retail,May,11,150000,1650000
+Apple,iPhone SE,West,Online,Jun,34,50000,1700000
+Xiaomi,Xiaomi 13,Central,Corporate,Jul,49,55000,2695000
+OnePlus,OnePlus 12,North,Individual,Aug,35,70000,2450000
+Vivo,Vivo X100,South,Retail,Sep,48,50000,2400000
+Oppo,Oppo Find X7,East,Online,Oct,27,75000,2025000
+Realme,Realme GT 5,West,Corporate,Nov,56,30000,1680000
+Google,Pixel 8 Pro,Central,Individual,Dec,15,95000,1425000
+Samsung,Galaxy S24,North,Retail,Jan,54,85000,4590000
+Apple,iPhone 15 Pro,South,Online,Feb,41,120000,4920000
+Xiaomi,Xiaomi 14,East,Corporate,Mar,57,65000,3705000
+OnePlus,OnePlus 12,West,Individual,Apr,28,70000,1960000
+Vivo,Vivo X100,Central,Retail,May,42,50000,2100000
+Oppo,Oppo Find X7,North,Online,Jun,33,75000,2475000
+Realme,Realme GT 5,South,Corporate,Jul,61,30000,1830000
+Google,Pixel 8 Pro,East,Individual,Aug,17,95000,1615000
+Samsung,Galaxy S23,West,Retail,Sep,49,70000,3430000
+Apple,iPhone 15,Central,Online,Oct,36,100000,3600000
+Xiaomi,Redmi Note 13,North,Corporate,Nov,75,25000,1875000
+OnePlus,OnePlus 11,South,Individual,Dec,29,55000,1595000
+Vivo,Vivo V30,East,Retail,Jan,43,40000,1720000
+Oppo,Oppo Reno 11,West,Online,Feb,24,60000,1440000
+Realme,Realme 12 Pro,Central,Corporate,Mar,68,22000,1496000
+Google,Pixel 8,North,Individual,Apr,16,80000,1280000
+Samsung,Galaxy A54,South,Retail,May,80,35000,2800000
+Apple,iPhone 14,East,Online,Jun,32,90000,2880000
+Xiaomi,Redmi Note 12,West,Corporate,Jul,64,20000,1280000
+OnePlus,OnePlus Nord 3,Central,Individual,Aug,22,45000,990000
+Vivo,Vivo Y100,North,Retail,Sep,53,28000,1484000
+Oppo,Oppo A78,South,Online,Oct,39,25000,975000
+Realme,Realme C67,East,Corporate,Nov,73,15000,1095000
+Google,Pixel 7a,West,Individual,Dec,19,60000,1140000
+Samsung,Galaxy Z Flip 5,Central,Retail,Jan,16,110000,1760000
+Apple,iPhone 13,North,Online,Feb,43,80000,3440000
+Xiaomi,Poco X6,South,Corporate,Mar,58,28000,1624000
+OnePlus,OnePlus Open,East,Individual,Apr,13,130000,1690000
+Vivo,Vivo T3,West,Retail,May,38,32000,1216000
+Oppo,Oppo F25,Central,Online,Jun,31,27000,837000
+Realme,Realme Narzo 70,North,Corporate,Jul,66,18000,1188000
+Google,Pixel Fold,South,Individual,Aug,6,160000,960000
+Samsung,Galaxy Z Fold 5,East,Retail,Sep,14,150000,2100000
+Apple,iPhone SE,West,Online,Oct,33,50000,1650000
+Xiaomi,Xiaomi 13,Central,Corporate,Nov,47,55000,2585000
+OnePlus,OnePlus 12,North,Individual,Dec,34,70000,2380000
+Vivo,Vivo X100,South,Retail,Jan,46,50000,2300000
+Oppo,Oppo Find X7,East,Online,Feb,30,75000,2250000
+Realme,Realme GT 5,West,Corporate,Mar,55,30000,1650000
+Google,Pixel 8 Pro,Central,Individual,Apr,14,95000,1330000
+Samsung,Galaxy S24,North,Retail,May,53,85000,4505000
+Apple,iPhone 15 Pro,South,Online,Jun,39,120000,4680000
+Xiaomi,Xiaomi 14,East,Corporate,Jul,59,65000,3835000
+OnePlus,OnePlus 12,West,Individual,Aug,26,70000,1820000
+Vivo,Vivo X100,Central,Retail,Sep,44,50000,2200000
+Oppo,Oppo Find X7,North,Online,Oct,32,75000,2400000
+Realme,Realme GT 5,South,Corporate,Nov,62,30000,1860000
+Google,Pixel 8 Pro,East,Individual,Dec,18,95000,1710000
